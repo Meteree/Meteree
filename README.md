@@ -1,5 +1,6 @@
-## Hi there 👋
 
+## Benim becerilerim:
+<img src="[LINK](https://media1.tenor.com/m/QtNJWLGD5KwAAAAd/work-working.gif)" width="10%">
 <!--
 **Meteree/Meteree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
